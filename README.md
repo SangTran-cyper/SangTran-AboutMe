@@ -10,4 +10,4 @@ My main tech stack is **Python, PyTorch, TensorFlow, and Hugging Face Transforme
 
 I've got a bunch of pinned repositories below, but my favorites are:
 *   [Joint Entity-Relation Extraction](https://github.com/SangTran-cyper/Joint-Entity-Relation-Extraction) — A multi-task Transformer architecture solving information extraction.
-*   [Deepfake Video Detection](link_đến_repo_CV) — A spatial-temporal computer vision system built to expose digital manipulation.
+*   [Deepfake Video Detection](https://github.com/SangTran-cyper/Deepfake-and-Manipulated-Image-Detection) — A spatial-temporal computer vision system built to expose digital manipulation.
